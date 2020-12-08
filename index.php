@@ -1,6 +1,7 @@
 <?php
 
-	echo"Test Git Points";
-	echo"Test Git Points";
+	echo"1. Test Git Points";
+	echo"2. Test Git Points";
+	echo"3. Test Git Points";
 
 ?>
